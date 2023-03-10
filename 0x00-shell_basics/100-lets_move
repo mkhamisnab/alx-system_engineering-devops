@@ -1,3 +1,2 @@
 #!/bin/bash
-find /source/* [A-Z]* -maxdepth 1 -type f -exec mv {} /target ;
-
+mv [A-Z]* /tmp/u 
